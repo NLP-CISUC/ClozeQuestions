@@ -1,4 +1,4 @@
-# ClozeQuestions
+# Portuguese Cloze Questions
 
 A total of 3,890 fill-in-the-blank questions created in the scope of the REAP.PT project [1], generated from sentences of the CETEMPúblico corpus [2], with candidate stems selected from the Portuguese Academic Word List [3] [4], refined to be in accordance with the distractors [5].
 
