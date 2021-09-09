@@ -18,5 +18,5 @@ Previously used in the evaluation of lexical-semantic knowledge bases of Portugu
 
 [6] Gonçalo Oliveira, H., Coelho, I., and Gomes, P. (2014). Exploiting Portuguese lexical knowledge bases for answering open domain cloze questions automatically. In Proceedings of 9th International Conference on Language Resources and Evaluation, LREC 2014, Reykjavik, Iceland. ELRA.
 
-[7] Gonçaalo Oliveira, H. (2018). A survey on Portuguese lexical knowledge bases: Contents, comparison and combination. Information, 9(2).
+[7] Gonçalo Oliveira, H. (2018). A survey on Portuguese lexical knowledge bases: Contents, comparison and combination. Information, 9(2).
 
