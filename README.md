@@ -8,7 +8,7 @@ Previously used in the evaluation of lexical-semantic knowledge bases of Portugu
 
 [1] Silva, A., Marques, C., Baptista, J., Ferreira, A., and Mamede, N. (2012). REAP.PT serious games for learning Portuguese. In Proceedings of the 10th Interna- tional Conference on Computational Processing of the Portuguese Language (PROPOR 2012), volume 7243 of LNCS, pages 248–259, Coimbra, Portugal, April. Springer.
 
-[2] Santos, D. and Rocha, P. (2001). Evaluating CETEMPu ́blico, a free resource for Portuguese. In Proceedings of 39th Annual Meeting of the Association for Computational Linguistics, ACL 2001, pages 442–449. ACL Press, 9-11 July.
+[2] Santos, D. and Rocha, P. (2001). Evaluating CETEMPúblico, a free resource for Portuguese. In Proceedings of 39th Annual Meeting of the Association for Computational Linguistics, ACL 2001, pages 442–449. ACL Press, 9-11 July.
 
 [3] Baptista, J., Costa, N., Guerra, J., Zampieri, M., Cabral, M., and Mamede, N. J. (2010). P-AWL: Academic Word List for Portuguese. In Proceedings of Computational Processing of the Portuguese Language, 9th International Conference, PROPOR 2010, volume 6001 of LNCS, pages 120–123. Springer.
 
