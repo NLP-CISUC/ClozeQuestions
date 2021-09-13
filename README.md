@@ -16,10 +16,10 @@ Previously used in the evaluation of Portuguese lexical-semantic knowledge bases
 
 [5] Correia, R., Baptista, J., Mamede, N., Trancoso, I., and Eskenazi, M. (2010). Automatic generation of cloze question distractors. In Second Language Studies: Acquisition, Learning, Education and Technology, Tokyo, Japan, September.
 
-[6] Gonçalo Oliveira, H., Coelho, I., and Gomes, P. (2014). Exploiting Portuguese lexical knowledge bases for answering open domain cloze questions automatically. In Proceedings of 9th International Conference on Language Resources and Evaluation, LREC 2014, Reykjavik, Iceland. ELRA.
+[6] Gonçalo Oliveira, H., Coelho, I., and Gomes, P. (2014). Exploiting Portuguese lexical knowledge bases for answering open domain cloze questions automatically. In Proceedings of 9th International Conference on Language Resources and Evaluation, LREC 2014, Reykjavik, Iceland. ELRA. [URL](https://aclanthology.org/L14-1389/)
 
-[7] Gonçalo Oliveira, H. (2018). A survey on Portuguese lexical knowledge bases: Contents, comparison and combination. Information, 9(2).
+[7] Gonçalo Oliveira, H. (2018). A survey on Portuguese lexical knowledge bases: Contents, comparison and combination. Information, 9(2). [URL](https://www.mdpi.com/2078-2489/9/2/34)
 
-[8] Gonçalo Oliveira, H. (2021). Answering Fill-in-the-Blank Questions in Portuguese with Transformer Language Models. In Proceedings of 20th EPIA Conference on Artificial Intelligence, EPIA 2021, Virtual Event, September 7-9, 2021, volume 12981 of LNCS, pages 739–751. Springer.
+[8] Gonçalo Oliveira, H. (2021). Answering Fill-in-the-Blank Questions in Portuguese with Transformer Language Models. In Proceedings of 20th EPIA Conference on Artificial Intelligence, EPIA 2021, Virtual Event, September 7-9, 2021, volume 12981 of LNCS, pages 739–751. Springer. [URL](https://link.springer.com/chapter/10.1007/978-3-030-86230-5_58)
 
 
